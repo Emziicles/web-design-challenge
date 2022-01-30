@@ -1,0 +1,32 @@
+.box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 800;
+    width: max-content;
+    color: #fff;
+  }
+  
+  
+  .skyblue {
+    background: deepskyblue;
+  }
+  
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .green {
+    background: springgreen;
+  }
+  
+  h3{
+    color:darkcyan ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+  }
+  h4{ 
+    color:darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+  }
